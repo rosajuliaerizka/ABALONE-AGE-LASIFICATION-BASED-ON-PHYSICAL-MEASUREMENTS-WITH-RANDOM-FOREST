@@ -1,0 +1,2 @@
+# ABALONE-AGE-LASIFICATION-BASED-ON-PHYSICAL-MEASUREMENTS-WITH-RANDOM-FOREST
+This project aims to classify the age of abalone based on its physical measurements using the Random Forest model. The dataset used contains features such as sex, length, diameter, height, total weight, meat weight, internal organ weight, and shell weight. The classification target is the number of rings on the abalone shell which represents age.
